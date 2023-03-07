@@ -45,5 +45,9 @@ To install the Django E-Commerce Website on your local machine, follow these ste
 - python manage.py runserver
 Once the development server is running, you can access the Django E-Commerce Website by navigating to http://localhost:8000/ in your web browser. You can log in to the Django admin interface by navigating to http://localhost:8000/admin/ and entering the credentials for the superuser account you created in step 7.
 
+# Usage
 
-
+- Creating a superuser account to access the Django admin interface
+- Navigating to the home page and exploring the available features and functionalities
+- Testing the user authentication and authorization features
+- Adding products to the cart and checking out
